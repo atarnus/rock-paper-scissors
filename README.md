@@ -1,5 +1,6 @@
 # rock-paper-scissors
-A simple rock paper scrissors game.
+A simple rock paper scrissors game made as an assignment on Code Training Camp. 
+Maven project, editor Intellij IDEA.
 
 First version accepted only player input "rock", "paper" or "scissors".
 
